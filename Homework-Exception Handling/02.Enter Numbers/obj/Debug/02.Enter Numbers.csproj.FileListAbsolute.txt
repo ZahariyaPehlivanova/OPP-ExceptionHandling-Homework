@@ -1,0 +1,6 @@
+D:\VisualStudio\OOP\Homework-Exception Handling\02.Enter Numbers\bin\Debug\02.Enter Numbers.exe.config
+D:\VisualStudio\OOP\Homework-Exception Handling\02.Enter Numbers\bin\Debug\02.Enter Numbers.exe
+D:\VisualStudio\OOP\Homework-Exception Handling\02.Enter Numbers\bin\Debug\02.Enter Numbers.pdb
+D:\VisualStudio\OOP\Homework-Exception Handling\02.Enter Numbers\obj\Debug\02.Enter Numbers.csprojResolveAssemblyReference.cache
+D:\VisualStudio\OOP\Homework-Exception Handling\02.Enter Numbers\obj\Debug\02.Enter Numbers.exe
+D:\VisualStudio\OOP\Homework-Exception Handling\02.Enter Numbers\obj\Debug\02.Enter Numbers.pdb
